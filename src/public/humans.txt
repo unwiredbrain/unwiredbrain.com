@@ -1,0 +1,20 @@
+Hello fellow human! (Or machine, I really don’t know.)
+
+Here’s some info about this website and the people behind it.
+
+# THE TEAM
+
+- Massimo Lombardo (https://github.com/unwiredbrain)
+- The contributors (https://github.com/unwiredbrain/unwiredbrain.com/graphs/contributors)
+
+# THANKS & ACKNOWLEDGEMENTS
+
+- You, for stopping by.
+
+# COLOPHON
+
+- Technologies: HTML.
+- Services: GitHub; Amazon S3; CloudFlare.
+- Tools: Apple MacBook Pro, iTerm, Git, Atom.
+
+EOF
